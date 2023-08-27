@@ -114,3 +114,12 @@ function deleteItemAngkaTemp() {
   document.getElementById("display").innerText = angkaTemp.join("");
 }
 
+function deleteAllItem() {
+  angkaTemp = [];
+  angka = [];
+  operatorTemp = []
+  operator = [];
+  hasil = 0;
+
+  document.getElementById("display").innerText = hasil;
+}
