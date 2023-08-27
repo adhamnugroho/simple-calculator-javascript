@@ -64,8 +64,6 @@ function addOperator(operator_value) {
     return;
   }
 
-  // console.log(operatorTemp);
-
   // display
   document.getElementById("display").innerText = operatorTemp[operatorTemp.length-1];
 }
