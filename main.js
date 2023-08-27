@@ -1,7 +1,6 @@
 var angkaTemp = [];
 var angka = [];
 var operatorTemp = [];
-var operatorTemp = [];
 var operator = [];
 var hasil = 0;
 
