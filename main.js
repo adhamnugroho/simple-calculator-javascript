@@ -81,6 +81,7 @@ function equal() {
     operatorTemp.shift();
   }
 
+
   if(operator.length == 1) {
     if(operator[operator.length-1] == '+') {
       hasil = parseInt(angka[angka.length-2]) + parseInt(angka[angka.length-1]);
